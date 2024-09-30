@@ -1,0 +1,11 @@
+.input-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.input-group:not(:last-child) {
+    margin-right: 10px;
+}
