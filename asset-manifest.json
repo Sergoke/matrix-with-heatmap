@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/matrix-with-heatmap/static/css/main.d8af4317.css",
+    "main.js": "/matrix-with-heatmap/static/js/main.75eec2b4.js",
+    "static/js/453.561f6c50.chunk.js": "/matrix-with-heatmap/static/js/453.561f6c50.chunk.js",
+    "index.html": "/matrix-with-heatmap/index.html",
+    "main.d8af4317.css.map": "/matrix-with-heatmap/static/css/main.d8af4317.css.map",
+    "main.75eec2b4.js.map": "/matrix-with-heatmap/static/js/main.75eec2b4.js.map",
+    "453.561f6c50.chunk.js.map": "/matrix-with-heatmap/static/js/453.561f6c50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8af4317.css",
+    "static/js/main.75eec2b4.js"
+  ]
+}
